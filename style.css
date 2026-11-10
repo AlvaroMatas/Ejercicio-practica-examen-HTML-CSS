@@ -39,12 +39,6 @@ nav > ul > li:last-child{
     border: none;
 }
 
-/*
-nav > ul > li:active{
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.133);
-}*/
-
 nav ul li ul{
     display: none;
 }
@@ -79,3 +73,7 @@ li > a{
     color: black;
 }
 
+nav ul li#actual{
+    background-color: rgba(0, 0, 0, 0.133);
+    text-align: center;
+}
