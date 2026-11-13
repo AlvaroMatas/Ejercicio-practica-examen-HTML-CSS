@@ -84,7 +84,7 @@ nav ul li#actual{
     height: 100vh;
 }
 
-#titulo-home, #titulo-nosotros{
+#titulo-home, #titulo-nosotros, #titulo-horario{
     text-align: center;
     margin-bottom: 20px;
 }
