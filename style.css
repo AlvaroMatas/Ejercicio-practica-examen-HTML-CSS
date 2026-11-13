@@ -96,3 +96,27 @@ nav ul li#actual{
 .texto-home:last-child{
     margin-bottom: 0;
 }
+
+.tarjetas-nosotros{
+    border: 8px solid rgb(180, 180, 46);
+    border-radius: 15px;
+    padding: 20px;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.img-nosotros{
+    width: 250px;
+}
+
+.nombre-nostros{
+    margin: 10px 0;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.descripcion-nosotros{
+    font-size: 16px;
+    margin: 5px 0;
+}
